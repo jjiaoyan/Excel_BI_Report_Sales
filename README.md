@@ -1,3 +1,3 @@
 # Sales and Shipping BI Report with Power Pivot  
 
-![](/screenshot.png)
+![](/data/screenshot.png)
